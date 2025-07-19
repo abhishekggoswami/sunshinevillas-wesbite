@@ -61,7 +61,7 @@ Redistribution or public sharing is not permitted without written consent from t
 > A passionate full-stack developer focused on clean UI, strong UX, and performance-driven business websites.
 
 💼 Portfolio: [www.techgoatindia.com](https://www.techgoatindia.com)  
-🔗 LinkedIn: [linkedin.com/in/abhishekgoswami-ai](https://www.linkedin.com/in/abhishekgoswami-ai)
+
 
 ---
 
